@@ -14,6 +14,5 @@ puts zelda_quote
 end
 
 def any_phrase(phrase)
-  phrase = "Do A Barrell Roll!"
-  puts phrase
+  puts "{phrase}"
 end
