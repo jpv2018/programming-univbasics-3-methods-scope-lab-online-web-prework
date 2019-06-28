@@ -9,7 +9,7 @@ def toadstool
 end
 
 def link
-  zelda_quote = "It's Dangerous To Go Alone! Take This!"
+  zelda_quote = "It's Dangerous To Go Alone! Take This."
 puts zelda_quote
 end
 
